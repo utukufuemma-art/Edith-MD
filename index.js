@@ -6,7 +6,7 @@
 👤 Creator   : emma
 🌐 GitHub    : 255696301587
 📱 Contact   : 255696301587
-📢 Channel   : https://whatsapp.com/channel/0029VajGHyh2phHOH5zJl73P
+📢 Channel   : https://whatsapp.com/channel/0029Vb7CQLf8V0tnjm0gcD3I
 🗓 Release   : 25• december • 2025 | 02:00 PM
 ─────────────────────────────────────────────────────────────
 
