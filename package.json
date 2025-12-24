@@ -1,5 +1,5 @@
 {
-  "name": "EDITH-MD",
+  "name": "NEGRO-MD",
   "version": "1.0.0",
   "description": "WhatsApp Bot created By Bandaheali.",
   "main": "index.js",
@@ -9,16 +9,16 @@
     "restart": "pm2 restart EDITH-MD"
   },
   "keywords": [
-    "edith-md",
+    "negro-md",
     "whatsapp-bot",
     "baileys-bot",
     "multi-device-bot",
-    "bandaheali",
-    "edith-md-bot",
+    "ramiboy",
+    "negro-md-bot",
     "bot-whatsapp",
     "whatsapp-md",
     "nodejs-whatsapp-bot",
-    "bandaheali-edith",
+    "negro-ramiboy",
     "edith-ai",
     "baloch-ai",
     "wa-bot",
@@ -27,7 +27,7 @@
     "whatsapp-md-bot",
     "ai-bot",
     "baileys-whatsapp",
-    "edith-md-whatsapp-bot",
+    "negro-md-whatsapp-bot",
     "chatbot"
   ],
   "dependencies": {
