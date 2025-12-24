@@ -1,16 +1,16 @@
 /*
-   ✦ ✦ ✦   E D I T H - M D   ✦ ✦ ✦
+   ✦ ✦ ✦   N E G R O - M D   ✦ ✦ ✦
 
 ─────────────────────────────────────────────────────────────
-📛 Project   : Edith-MD
-👤 Creator   : Bandaheali
-🌐 GitHub    : https://github.com/Bandah-E-Ali
-📱 Contact   : https://t.me/@bandaheali
+📛 Project   : Negro-MD
+👤 Creator   : emma
+🌐 GitHub    : 255696301587
+📱 Contact   : 255696301587
 📢 Channel   : https://whatsapp.com/channel/0029VajGHyh2phHOH5zJl73P
-🗓 Release   : 24 • November • 2025 | 02:00 PM
+🗓 Release   : 25• december • 2025 | 02:00 PM
 ─────────────────────────────────────────────────────────────
 
-//   ⭐ PROUDLY MADE IN PAKISTAN ⭐
+//   ⭐ PROUDLY MADE IN TANZANIA⭐
 */
 
 
